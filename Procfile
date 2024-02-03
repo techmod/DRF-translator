@@ -1,0 +1,1 @@
+web: gunicorn translator_app.wsgi --log-file -
